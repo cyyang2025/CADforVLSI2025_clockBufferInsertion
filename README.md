@@ -6,7 +6,7 @@ This program implements a clock buffer insertion algorithm for Clock Tree Synthe
 ## Project Structure
 The program is organized into multiple source files as defined in the Makefile:
 
-- **M11415069.cpp** - Main program entry point and core algorithms
+- **main.cpp** - Main program entry point and core algorithms
 - **Parser.cpp** - Input file parsing functionality
 - **Utils.cpp** - Utility functions and helper methods
 - **Overlap.cpp** - Component overlap detection and handling
